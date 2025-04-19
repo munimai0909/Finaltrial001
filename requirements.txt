@@ -1,0 +1,8 @@
+flask
+flask-cors
+reportlab
+pytesseract
+Pillow
+google-api-python-client
+google-auth
+google-auth-oauthlib
